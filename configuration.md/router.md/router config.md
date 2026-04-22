@@ -1,9 +1,9 @@
-# =========================
+
 
 
 ## CORE ROUTER CONFIGURATION
 # Enterprise Network Security Lab
-# =========================
+
 
 ```bash
 
@@ -13,9 +13,9 @@ configure terminal
 hostname CORE-ROUTER
 no ip domain-lookup
 
-# =========================
-# INTERFACES
-# =========================
+
+## INTERFACES
+
 
 interface g0/0
 no shutdown
@@ -23,9 +23,9 @@ no shutdown
 interface g0/1
 no shutdown
 
-# =========================
+
 # INTER-VLAN ROUTING
-# =========================
+
 
 interface g0/0.10
 encapsulation dot1Q 10
