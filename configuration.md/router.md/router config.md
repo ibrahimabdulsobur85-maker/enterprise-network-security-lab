@@ -5,6 +5,8 @@
 # Enterprise Network Security Lab
 # =========================
 
+```bash
+
 enable
 configure terminal
 
