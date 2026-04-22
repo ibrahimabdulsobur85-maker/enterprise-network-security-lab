@@ -38,12 +38,12 @@ lab_files/enterprise_network_base.pkt
 
 ## 4. TESTING CHECKLIST
 
-✔ PCs receive IP addresses  
-✔ VLAN communication works  
-✔ Inter-VLAN routing works  
-✔ Internet (ping 8.8.8.8) works  
-✔ HR cannot access Finance  
-✔ ACL rules are enforced  
+- PCs receive IP addresses  
+- VLAN communication works  
+- Inter-VLAN routing works  
+- Internet (ping 8.8.8.8) works  
+- HR cannot access Finance  
+- ACL rules are enforced  
 
 
 ## 5. OPTIONAL SECURITY LAB
