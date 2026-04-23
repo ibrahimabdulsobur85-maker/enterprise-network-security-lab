@@ -14,7 +14,7 @@ hostname CORE-ROUTER
 no ip domain-lookup
 
 
-## INTERFACES
+# INTERFACES
 
 
 interface g0/0
