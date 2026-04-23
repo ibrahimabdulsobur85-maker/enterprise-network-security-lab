@@ -1,6 +1,6 @@
 
 # SWITCH SECURITY CONFIGURATION
-
+```bash
 
 # Port Security (Prevent unauthorized devices)
 interface range fa0/1-8
