@@ -5,13 +5,7 @@ Install:
 - Cisco Packet Tracer
 - Wireshark (optional but recommended)
 
-
-## 2. OPEN THE LAB FILE
-Open:
-lab_files/enterprise_network_base.pkt
-
-
-## 3. DEVICE SETUP ORDER
+## 2. DEVICE SETUP ORDER
 
 ### Step 1: Switch Setup
 - Create VLANs (10, 20, 30, 40)
@@ -36,7 +30,7 @@ lab_files/enterprise_network_base.pkt
 - Disable unused ports
 
 
-## 4. TESTING CHECKLIST
+## 3. TESTING CHECKLIST
 
 - PCs receive IP addresses  
 - VLAN communication works  
@@ -46,6 +40,6 @@ lab_files/enterprise_network_base.pkt
 - ACL rules are enforced  
 
 
-## 5. OPTIONAL SECURITY LAB
+## 4. OPTIONAL SECURITY LAB
 - Simulate unauthorized access
 - Observe traffic using Wireshark
